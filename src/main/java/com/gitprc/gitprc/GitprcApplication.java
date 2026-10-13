@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GitprcApplication {
 
 	public static void main(String[] args) {
-
+         int =100;
         SpringApplication.run(GitprcApplication.class, args);
 	}
 
